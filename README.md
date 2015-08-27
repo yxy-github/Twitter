@@ -9,6 +9,7 @@ This project implements a system that detects trending twitter feeds online. The
 * Decide whether or not a notification should be sent.
 
 Python 2.7 was used and Twitter API was accessed using "Tweepy".
+
 **Scripts included in this project**:
 * twitter_online.py: Main file containing the source code to do the tasks describe above. 
 * twitterDownloader.py: Python class for downloading twitter feeds and storing them into a database. 
