@@ -28,7 +28,8 @@ class TwitterAlgorithms:
         self.connAlert = sqlite3.connect(alerts_filename)
         self.connAlert.text_factory = str
         self.cAlert = self.connAlert.cursor()
-        self.cAlert.execute('CREATE TABLE IF NOT EXISTS Alert (Created_At timestamp, ID integer, \
+        self.cAlert.execute('DROP TABLE IF EXISTS Alert')
+        self.cAlert.execute('CREATE TABLE Alert (Created_At timestamp, ID integer, \
                 Tweet text, Source text, URL text)')
 
         # 2. Load the stop words.
@@ -218,14 +219,16 @@ class TwitterAlgorithms:
     def generate_alert(self, tweets):
         ''' Member:
                 self.flag: 1 if a tweet is deemed important and 0 otherwise.'''
-        if self.maxSimilarity > 0.9 and self.aveSimilarity > 0.75 and self.nAgencies > 2:
+        if self.maxSimilarity > 0.9 and self.aveSimilarity > 0.86 and \
+                self.nAgencies > 2 and self.nTweets > 4 and (nTweets / (nAgencies * 1.0)) < 1.5:
             self.flag = 1
-            print "Alert: An important tweet!!!"
+            print "This is an important tweet!!!"
             self.__store_alert(tweets)
             # Decide if a pull notification should be triggered.
             alertDateTime = tweets['date'].tolist()[self.iBestTweet]
             self.generate_notification(alertDateTime)
         else:
+            print "This is not an important tweet."
             self.flag = 0
     
     # This function decides whether or not to trigger the pull notification module.
@@ -239,12 +242,11 @@ class TwitterAlgorithms:
         flagPush = self.compare_alerts(results)    
         if flagPush is True:
             self.nPush += 1
-            if (self.nPush < 3):
-                self.fNotification.write("Notification %s\n" % self.nPush)
-                self.fNotification.write("Message:\n")
-                self.fNotification.write("\'%s\': %s, link: %s, created at: %s\n\n" \
-                        % (results[-1][3], results[-1][2], results[-1][4], results[-1][0]))           
-                self.__print_notification(results)
+            self.fNotification.write("Notification %s\n" % self.nPush)
+            self.fNotification.write("Message:\n")
+            self.fNotification.write("\'%s\': %s, link: %s, created at: %s\n\n" \
+                    % (results[-1][3], results[-1][2], results[-1][4], results[-1][0]))           
+            self.__print_notification(results)            
         
     # This function selects the 20-minute worth of news tweets.
     def select_tweets(self, newest):
