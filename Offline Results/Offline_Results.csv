@@ -1,5 +1,5 @@
 Flag,Time,Tweet,Source,Link,nTweets_in_Cluster,nSource,BestSim,AveSim,nFeatures,nClusters
-0,"('2015-08-07 00:07:47',)",“Malaysia hides the truth”  ,thetimes,http://t.co/mCi1JtnwVj,7,3,0.486392072,0.396890656,28,24
+0,"('2015-08-07 00:07:47',)",Malaysia hides the truth”  ,thetimes,http://t.co/mCi1JtnwVj,7,3,0.486392072,0.396890656,28,24
 0,"('2015-08-07 00:18:38',)",RT @CNNMoney: .@CVSHealth won't cover more than 24 prescription drugs for 2016. Are yours on the list?  ,cnn,http://t.co/IgkT2fFhgR,4,3,0.541195291,0.510125485,25,22
 0,"('2015-08-07 00:29:14',)",Attorneys general in two states face serious charges during the same week:  ,cnn,http://t.co/Ng6492XShv,4,3,0.546438057,0.493290922,27,24
 0,"('2015-08-07 00:35:06',)","RT @IvanCNN: Japanese pray for peace, 70 years after the U.S. dropped an atomic bomb on Hiroshima 

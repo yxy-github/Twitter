@@ -1,25 +1,26 @@
 ﻿August 10, 2015
-Message:
+Notification 1:
 'cnn': RT @CNNMoney: Here's what we know about Alphabet, Google's new parent company:  , link: http://t.co/QiA7Ciq97B, created at: 2015-08-10 21:38:19
 
 August 11, 2015
-Message:
+Notification 1:
 'ap': BREAKING: Arlington police chief fires officer who fatally shot unarmed Texas college football player., link: , created at: 2015-08-11 22:26:55
 
 August 12, 2015
-Message:
+Notification 1:
 'ap': MORE: The image purports to show a Croatian hostage beheaded by Islamic State affiliate in Egypt: , link: http://t.co/hM5tVmw7Vf, created at: 2015-08-12 11:26:26
-Message:
+Notification 2:
 'bbcnews': RT @BBCBreaking: Former US President Jimmy Carter announces he has cancer , link: http://t.co/MV99XMHBeJ, created at: 2015-08-12 20:41:53
-Message:
+**********************
+[This message important but will not trigger the notification module:]
 'telegraph': Huge explosion rocks Chinese city  #Tianjin , link: http://t.co/FlWMxg3mZC, created at: 2015-08-12 20:33:17
 
 August 13, 2015
-Message:
+Notification 1:
 'latimes': Islamic State claims truck bomb that killed dozens in Baghdad , link: http://t.co/SZSZBBexlC, created at: 2015-08-13 09:00:06
 
 August 14, 2015
-Message:
+Notification 1:
 'ap': VIDEO: Secretary of State John Kerry arrives in Havana to raise flag at US embassy in Cuba: , link: http://t.co/vi9XEYF4h1, created at: 2015-08-14 13:50:33
 
 August 15, 2015
@@ -27,67 +28,70 @@ Message:
 None
 
 August 16, 2015
-Message:
+Notification 1:
 'wsj': Julian Bond, longtime civil-rights activist, dies at 75 , link: http://t.co/75Tk5d8ZVr, created at: 2015-08-16 07:15:03
-Message:
+Notification 2:
 'msnuk': RT @SkyNews: Indonesian Aircraft Carrying 54 People Missing , link: http://t.co/HB641eIRuS, created at: 2015-08-16 09:07:39
-Message:
+**********************
+[This message important but will not trigger the notification module:]
 'ap': MORE: 3 dead following midair collision of small planes in southern San Diego County, authorities say , link: http://t.co/rtBW6tyGmh, created at: 2015-08-16 19:47:21
-Message:
+[This message important but will not trigger the notification module:]
 'washingtonpost': Jason Day wins PGA Championship with record score for major , link: http://t.co/txfPnCKNwm, created at: 2015-08-16 23:28:06
 
 August 17, 2015
-Message:
+Notification 1:
 'time': Jason Day shows major mettle and wins PGA Championship , link: http://t.co/q8Y6baY7wf, created at: 2015-08-17 00:15:34
-Message:
+Notification 2:
 'telegraph': Explosion rocks central #Bangkok. Reports of casualties  , link: http://t.co/wCd8LWTPJd, created at: 2015-08-17 12:36:24
-Message:
+**********************
+[This message important but will not trigger the notification module:]
 'skynews': Morgan Freeman's step-granddaughter stabbed to death  , link: http://t.co/fZ2qdO6zmF, created at: 2015-08-17 11:26:23
-Message:
+[This message important but will not trigger the notification module:]
 'bostonglobe': A magnitude 4.0 earthquake rattled the San Francisco Bay Area this morning, but there are no reports of injuries , link: http://t.co/cmqGHIHjcN, created at: 2015-08-17 14:42:04
-Message:
+[This message important but will not trigger the notification module:]
 'cnet': Amazon is not a "soulless, dystopian workplace" - Jeff Bezos rebuts a scathing NY Times story  , link: http://t.co/A1ifag7ThM, created at: 2015-08-17 14:10:08
-Message:
+[This message important but will not trigger the notification module:]
 'ap': AP VIDEO: Donald Trump arrives for jury duty in NYC: , link: http://t.co/J7Y0VgALbV, created at: 2015-08-17 17:17:02
 
 August 18, 2015
-Message:
+Notification 1:
 'usatoday': #BREAKING Correction: First female soldiers to graduate from Army Ranger School , link: http://t.co/MURcvBpdO7, created at: 2015-08-18 00:40:59
-Message:
+Notification 2:
 'time': Black box recovered from Indonesian plane crash , link: http://t.co/Zry8lAIVY2, created at: 2015-08-18 06:12:52
-Message:
+**********************
+[This message important but will not trigger the notification module:]
 'usatoday': RT @usatodaylife: Rosie O'Donnell says her 17-year-old daughter Chelsea is missing  , link: http://t.co/nBoXGvlHhW, created at: 2015-08-18 17:31:05
-Message:
+[This message important but will not trigger the notification module:]
 'usatoday': #BREAKING FDA approves world's first pill to boost women's libido , link: http://t.co/rjVUTCWL90, created at: 2015-08-18 22:47:59
 
 August 19, 2015
-Message:
+Notification 1:
 'nytimes': German Parliament Overwhelmingly Approves Greek Bailout , link: http://t.co/OMxeddQ6U7, created at: 2015-08-19 10:34:13
-Message:
+Notification 2:
 'ap': Documents: Ex-Subway pitchman Jared Fogle paid for sex acts with minors, received child pornography: , link: http://t.co/1t12kdnJNi, created at: 2015-08-19 13:37:57
-Message:
+[This message important but will not trigger the notification module:]
 'bostonglobe': Yvonne Craig, actress who played Batgirl in ’60s, dies at 78  , link: http://t.co/Bu06s3T24y, created at: 2015-08-19 14:14:52
-Message:
+[This message important but will not trigger the notification module:]
 'washingtonpost': Don’t gloat about the Ashley Madison leak. It’s about way more than infidelity. , link: http://t.co/pyU7Vks1qM, created at: 2015-08-19 20:43:21
 
 August 20, 2015
-Message:
+Notification 1:
 'ap': MORE: Sheriff: 3 firefighters killed in Washington state wildfire: , link: http://t.co/jvn6fqkTua, created at: 2015-08-20 01:01:00
-Message:
+Notification 2:
 'thetimes': North and South Korea exchange fire over border  , link: http://t.co/7EE89Yomsg, created at: 2015-08-20 10:15:00
-Message:
+[This message important but will not trigger the notification module:]
 'bostonglobe': Live video: Former president Jimmy Carter discusses cancer diagnosis , link: http://t.co/gSzGxdmzUX, created at: 2015-08-20 14:02:20
-Message:
+[This message important but will not trigger the notification module:]
 'skynews': Man Tasered At Gatwick Over EasyJet Luggage Row , link: http://t.co/Br8jYYlCnU, created at: 2015-08-20 13:26:09
-Message:
+[This message important but will not trigger the notification module:]
 'skynews': Greek Prime Minister Alexis Tsipras will resign tonight, officials have said  , link: http://t.co/iWEU2JoQux, created at: 2015-08-20 15:49:51
-Message:
+[This message important but will not trigger the notification module:]
 'ap': BREAKING: Sheriff's investigators to recommend manslaughter charge for Caitlyn Jenner in fatal crash., link: , created at: 2015-08-20 18:40:19
 
 August 21, 2015
-Message:
+Notification 1:
 'wsj': Macedonia police fire stun grenades on migrants on border with Greece , link: http://t.co/6622dTDZUG, created at: 2015-08-21 10:45:49
-Message:
+Notification 2:
 'wsj': A U.S. strike has killed Islamic State’s second-in-command  , link: http://t.co/21XaTSMxiA, created at: 2015-08-21 19:44:14
 
 

@@ -11,7 +11,7 @@ schedule = sched.scheduler(time.time, time.sleep)
 def schedule_task(downloader, algorithm):
     global counter
     print "\nIteration: ", counter
-    schedule.enter(120, 1, schedule_task, (downloader, algorithm, ))
+    schedule.enter(600, 1, schedule_task, (downloader, algorithm, ))
     (newest, downloader) = download_data(counter, downloader)
     process_data(newest, algorithm)
     counter += 1
