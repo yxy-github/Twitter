@@ -8,7 +8,7 @@ This project implements a system that detects trending twitter feeds online. The
 * Identify the best tweet from the best cluster (using cosine similarity) and decide if it is important based on its cosine similarity value with the cluster's centroid, the number of news agencies contributing tweets to the cluster, and the cosine similarity values between other cluster's members with the cluster's centroid. The information of the best tweet is written to a csv file. 
 * Decide whether or not a notification should be sent.
 
-Python 2.7 was used and Twitter API was accessed using "Tweepy".
+Python 2.7 was used (with time in UTC time zone) and Twitter API was accessed using "Tweepy".
 
 **Scripts included in this project**:
 * **twitter_online.py**: Main file containing the source code to do the tasks describe above. 
@@ -26,7 +26,7 @@ Python 2.7 was used and Twitter API was accessed using "Tweepy".
 
 **Offline Analysis**:
 * **tweet_1000.db**: 1000 tweets collected from all the news agencies respectively (the most recent one was created at 2015-08-22 02:30:08)
-* **Notification_Offline.txt**: Twitter feeds that are considered important and should notify the users. These feeds were obtained from tweets from 2015-08-07 00:00:01 to 2015-08-22 02:30:08.
-* **Results_Offline.csv**: Top tweets analyzed using data from 2015-08-07 00:00:01 to 2015-08-22 02:30:08.
+* **Results_Offline.csv**: Top tweets obtained from the proposed algorithm using tweet_1000db (from 2015-08-07 00:00:01 to 2015-08-22 02:30:08).
+* **Notification_Offline.txt**: Twitter feeds that are considered important and should pull the notification trigger. These feeds were retrieved from tweet_1000db dated from 2015-08-07 00:00:01 to 2015-08-22 02:30:08.
 
 
