@@ -25,8 +25,8 @@ Python 2.7 was used and Twitter API was accessed using "Tweepy".
 * token.txt: Information needed for Twitter API authentication.
 
 **Offline Analysis**:
-*tweet_1000.db: 1000 tweets collected from all the news agencies respectively (the most recent one was created at 2015-08-22 02:30:08)
-*Notification_Offline.txt: Twitter feeds that are considered important and should notify the users. These feeds were obtained from tweets from 2015-08-07 00:00:01 to 2015-08-22 02:30:08.
-*Results_Offline.csv: Top tweets analyzed using data from 2015-08-07 00:00:01 to 2015-08-22 02:30:08.
+* tweet_1000.db: 1000 tweets collected from all the news agencies respectively (the most recent one was created at 2015-08-22 02:30:08)
+* Notification_Offline.txt: Twitter feeds that are considered important and should notify the users. These feeds were obtained from tweets from 2015-08-07 00:00:01 to 2015-08-22 02:30:08.
+* Results_Offline.csv: Top tweets analyzed using data from 2015-08-07 00:00:01 to 2015-08-22 02:30:08.
 
 
